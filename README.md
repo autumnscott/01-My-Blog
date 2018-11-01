@@ -13,6 +13,7 @@ The idea is to create a “looking glass” effect that lays on top of images. I
 https://create.adobe.com/2018/5/24/free_photoshop_actio.html
 
 
+
 ### My Attempts
 Here are some of my pieces I used Campau’s action set on. Try it out and tell me what you think! Do you like this “looking glass” effect? Do you think it was helpful or harmful to your photography? Was it easy to use? Let me know in the comments!
 
